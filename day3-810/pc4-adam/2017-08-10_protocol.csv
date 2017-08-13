@@ -1,0 +1,23 @@
+Date;Time;SerialNo;Hardware;ProductionDate;Software;MemorySize;TargetDevice;BatteryDate;Capacity;BattUsage;Voltage;CodeNo;Mode;OpTime;Rtc;Autosend;Readout;ExtProt;Sprint_4ms;Card6with192punches;StopIfBackupFull;AirPlusTimingMode;AirPlusRadioMode;EcoMode;AllowGateMode;Action;
+
+Date;Time;SerialNo;Hardware;ProductionDate;Software;MemorySize;TargetDevice;BatteryDate;Capacity;BattUsage;Voltage;CodeNo;Mode;OpTime;Rtc;Autosend;Readout;ExtProt;Sprint_4ms;Card6with192punches;StopIfBackupFull;AirPlusTimingMode;AirPlusRadioMode;EcoMode;AllowGateMode;Action;
+2017-08-10;07:43:21;78891;BSM7 UART1 (USB);2006.10.27.;623;128 K;Direct;2010.12.28.;2000;27,9 %;N/A;5;Readout; 02:00:00;RealTimeClock!; -;N/A;ExtendedProtocol;N/A; -; -;N/A;N/A;N/A;N/A;ConfigRead;
+2017-08-10;14:36:18;133393;BSF7;2011.03.16.;656;128 K;Remote;2011.03.16.;2000;26,2 %;3,26;71;Control; 02:00:00;RealTimeClock!; -;N/A; -;N/A; -;N/A;N/A;N/A;N/A;N/A;ConfigRead;
+2017-08-10;14:36:31;133393;BSF7;2011.03.16.;656;128 K;Remote;2011.03.16.;2000;26,2 %;3,26;71;Control; 02:00:00;RealTimeClock!; -;N/A; -;N/A; -;N/A;N/A;N/A;N/A;N/A;ConfigRead;
+2017-08-10;14:39:25;133393;BSF7;2011.03.16.;656;128 K;Remote;2011.03.16.;2000;26,2 %;3,26;71;Control; 02:00:00;RealTimeClock!; -;N/A; -;N/A; -;N/A;N/A;N/A;N/A;N/A;ConfigRead;
+2017-08-10;14:39:39;133393;BSF7;2011.03.16.;656;128 K;Remote;2011.03.16.;2000;26,2 %;3,26;64;Control; 04:00:00;RealTimeClock!; -;N/A;ExtendedProtocol;N/A; -;N/A;N/A;N/A;N/A;N/A;ConfigWritten;
+2017-08-10;14:40:00;133390;BSF7;2011.03.16.;656;128 K;Remote;2011.03.16.;2000;25,7 %;3,17;102;Control; 04:00:00;RealTimeClock!; -;N/A;ExtendedProtocol;N/A; -;N/A;N/A;N/A;N/A;N/A;ConfigWritten;
+2017-08-10;14:40:15;133397;BSF7;2011.03.16.;656;128 K;Remote;2011.03.16.;2000;25,8 %;3,05;94;Control; 04:00:00;RealTimeClock!; -;N/A;ExtendedProtocol;N/A; -;N/A;N/A;N/A;N/A;N/A;ConfigWritten;
+2017-08-10;14:40:48;133394;BSF7;2011.03.16.;656;128 K;Remote;2011.03.16.;2000;25,0 %;3,22;90;Control; 04:00:00;RealTimeClock!; -;N/A;ExtendedProtocol;N/A; -;N/A;N/A;N/A;N/A;N/A;ConfigWritten;
+2017-08-10;14:41:06;133385;BSF7;2011.03.16.;656;128 K;Remote;2011.03.16.;2000;26,7 %;2,92;97;Control; 04:00:00;RealTimeClock!; -;N/A;ExtendedProtocol;N/A; -;N/A;N/A;N/A;N/A;N/A;ConfigWritten;
+2017-08-10;14:41:27;133378;BSF7;2011.03.16.;656;128 K;Remote;2011.03.16.;2000;25,3 %;3,05;104;Control; 04:00:00;RealTimeClock!; -;N/A;ExtendedProtocol;N/A; -;N/A;N/A;N/A;N/A;N/A;ConfigWritten;
+2017-08-10;14:42:05;133406;BSF7;2011.03.16.;656;128 K;Remote;2011.03.16.;2000;27,2 %;3,27;109;Control; 04:00:00;RealTimeClock!; -;N/A;ExtendedProtocol;N/A; -;N/A;N/A;N/A;N/A;N/A;ConfigWritten;
+2017-08-10;14:42:29;133410;BSF7;2011.03.16.;656;128 K;Remote;2011.03.16.;2000;26,1 %;3,18;69;Control; 04:00:00;RealTimeClock!; -;N/A;ExtendedProtocol;N/A; -;N/A;N/A;N/A;N/A;N/A;ConfigWritten;
+2017-08-10;14:42:47;133412;BSF7;2011.03.16.;656;128 K;Remote;2011.03.16.;2000;25,9 %;3,15;78;Control; 04:00:00;RealTimeClock!; -;N/A;ExtendedProtocol;N/A; -;N/A;N/A;N/A;N/A;N/A;ConfigWritten;
+2017-08-10;14:43:03;133395;BSF7;2011.03.16.;656;128 K;Remote;2011.03.16.;2000;25,8 %;3,23;76;Control; 04:00:00;RealTimeClock!; -;N/A;ExtendedProtocol;N/A; -;N/A;N/A;N/A;N/A;N/A;ConfigWritten;
+2017-08-10;14:43:37;133405;BSF7;2011.03.16.;656;128 K;Remote;2011.03.16.;2000;26,6 %;3,30;74;Control; 04:00:00;RealTimeClock!; -;N/A;ExtendedProtocol;N/A; -;N/A;N/A;N/A;N/A;N/A;ConfigWritten;
+2017-08-10;14:46:08;133386;BSF7;2011.03.16.;656;128 K;Remote;2011.03.16.;2000;25,7 %;3,32;111;Control; 04:00:00;RealTimeClock!; -;N/A;ExtendedProtocol;N/A; -;N/A;N/A;N/A;N/A;N/A;ConfigWritten;
+2017-08-10;14:47:53;170608;BSF7;2014.11.18.;656;128 K;Remote;2014.11.18.;2000;12,2 %;3,34;111;Control; 04:00:00;RealTimeClock!; -;N/A;ExtendedProtocol;N/A; -;N/A;N/A;N/A;N/A;N/A;ConfigWritten;
+2017-08-10;14:51:57;133384;BSF7;2011.03.16.;656;128 K;Remote;2011.03.16.;2000;26,3 %;3,34;46;Start; 04:00:00;RealTimeClock!; -;N/A;ExtendedProtocol;SprintMode; -;N/A;N/A;N/A;N/A;N/A;ConfigWritten;
+2017-08-10;14:52:19;133384;BSF7;2011.03.16.;656;128 K;Remote;2011.03.16.;2000;26,3 %;3,35;46;Start; 04:00:00;RealTimeClock!; -;N/A;ExtendedProtocol;SprintMode; -;N/A;N/A;N/A;N/A;N/A;ConfigWritten;
+2017-08-10;14:52:59;133384;BSF7;2011.03.16.;656;128 K;Remote;2011.03.16.;2000;26,3 %;3,35;46;Control; 04:00:00;RealTimeClock!; -;N/A;ExtendedProtocol;N/A; -;N/A;N/A;N/A;N/A;N/A;ConfigWritten;

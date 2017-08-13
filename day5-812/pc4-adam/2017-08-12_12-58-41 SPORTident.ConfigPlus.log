@@ -1,0 +1,37 @@
+2017-08-12 12:58:41.5483 #      ALL # ************************************************************************************************************************
+2017-08-12 12:58:41.5483 #      ALL # SPORTident.ConfigPlus (v2.0.3.17107) started
+2017-08-12 12:58:41.5483 #      ALL # Settings file located at: C:\Users\Adam\AppData\Roaming\SPORTident\Config\SPORTident.ConfigPlus.settings
+2017-08-12 12:58:41.5483 #      ALL # Starting up application, runlevel is set to: Startup...
+2017-08-12 12:58:41.5483 #      ALL # External reference created to mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+2017-08-12 12:58:41.5483 #      ALL # External reference created to System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2017-08-12 12:58:41.5483 #      ALL # External reference created to System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+2017-08-12 12:58:41.5483 #      ALL # External reference created to System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+2017-08-12 12:58:41.5483 #      ALL # External reference created to YAXLib, Version=2.0.1.0, Culture=neutral, PublicKeyToken=e21655a665f6ae1b
+2017-08-12 12:58:41.5483 #      ALL # External reference created to SPORTident.Communication, Version=2.17.6296.17105, Culture=neutral, PublicKeyToken=e21655a665f6ae1b
+2017-08-12 12:58:41.5483 #      ALL # External reference created to ObjectListView, Version=2.9.1.27756, Culture=neutral, PublicKeyToken=b1c5bf581481bcd4
+2017-08-12 12:58:41.5483 #      ALL # External reference created to Microsoft.WindowsAPICodePack.Shell, Version=1.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2017-08-12 12:58:41.5483 #      ALL # External reference created to System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+2017-08-12 12:58:41.5639 #      ALL # External reference created to Ionic.Zip, Version=1.9.1.8, Culture=neutral, PublicKeyToken=edbe51ad942a3f5c
+2017-08-12 12:58:41.5639 #      ALL # External reference created to ListViewPrinter, Version=2.5.0.27757, Culture=neutral, PublicKeyToken=21b031892bc54fb5
+2017-08-12 12:58:41.5639 #      ALL # External reference created to System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+2017-08-12 12:58:41.5639 #     FINE # Initializing localization library...
+2017-08-12 12:58:41.5951 #      ALL # ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2017-08-12 12:58:41.5951 #     FINE # Application environment information:
+2017-08-12 12:58:41.5951 #     FINE # Application execution path: C:\SportSoftware\ConfigPlus
+2017-08-12 12:58:41.5951 #     FINE # Application settings path: C:\Users\Adam\AppData\Roaming\SPORTident\Config
+2017-08-12 12:58:41.5951 #     FINE # Application log path: C:\Users\Adam\AppData\Roaming\SPORTident\Config\log
+2017-08-12 12:58:41.5951 #     FINE # Firmware update path: C:\Users\Adam\AppData\Roaming\SPORTident\Config\updates\firmware
+2017-08-12 12:58:41.5951 #      ALL # ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2017-08-12 12:58:41.5951 #     INFO # Settings loading...
+2017-08-12 12:58:41.6107 #     FINE # Loading and applying settings from file C:\Users\Adam\AppData\Roaming\SPORTident\Config\SPORTident.ConfigPlus.settings
+2017-08-12 12:58:41.6575 #     INFO # Log level set to Info
+2017-08-12 12:58:42.4531 #     INFO # Settings and UI loading...
+2017-08-12 12:58:43.1551 #     INFO # Application settings saved to file.
+2017-08-12 12:58:43.4983 #  WARNING # Test mode disabled
+2017-08-12 12:58:49.1455 #     INFO # Application settings saved to file.
+2017-08-12 12:58:49.1767 #     INFO # Device COM44 (com0com - serial port emulator# @ COM0COM) @ Baudrate 38400 opened.
+2017-08-12 12:58:49.2703 #     INFO # Target device set to direct
+2017-08-12 12:58:49.3795 #     INFO # Device configuration read
+2017-08-12 12:58:49.5199 #     INFO # Station time received, round trip time was 15 ms.
+2017-08-12 12:58:49.8787 #     INFO # Application settings saved to file.
+2017-08-12 12:58:49.8943 #     INFO # Device COM44 (com0com - serial port emulator# @ COM0COM) @ Baudrate 38400 opened.

@@ -1,0 +1,107 @@
+2017/08/12 08:00:48.872 Command Line:
+  {C:\sziebadam\sicomtrace\\hub4com.exe  --baud=38400 --octs=off --no-default-fc-route=All:All --trace-file=COM14_02.log --create-filter=trace --add-filters=0:trace \\.\COM14 --route=0:All \\.\CNCB0 --route=1:0 --use-driver=tcp 7777 --route=2:0}
+2017/08/12 08:00:48.872 Config:
+_BEGIN_
+  --baud=38400
+  --octs=off
+  --no-default-fc-route=All:All
+  --trace-file=COM14_02.log
+  --create-filter=trace
+  --add-filters=0:trace
+  \\.\COM14
+  --route=0:All
+  \\.\CNCB0
+  --route=1:0
+  --use-driver=tcp
+  7777
+  --route=2:0
+_END_
+2017/08/12 08:00:48.966 COM14(0)-(trace)->: MSG_LOOP_TEST {00000000}
+2017/08/12 08:00:48.966 COM14(0)<-(trace)-CNCB0(1): MSG_LOOP_TEST {00000000}
+2017/08/12 08:00:48.966 COM14(0)<-(trace)-TCP(2): MSG_LOOP_TEST {00000000}
+2017/08/12 08:00:48.966 COM14(0)-(trace)->: MSG_SET_OUT_OPTS {[]}
+2017/08/12 08:00:48.966 COM14(0)<-(trace)-CNCB0(1): MSG_SET_OUT_OPTS {[]}
+2017/08/12 08:00:48.966 COM14(0)<-(trace)-TCP(2): MSG_SET_OUT_OPTS {[]}
+2017/08/12 08:00:48.966 COM14(0)-(trace)->: MSG_COUNT_REPEATS {&0012FE94[0x0] MSG_GET_IN_OPTS}
+2017/08/12 08:00:48.966 COM14(0)-(trace)->: MSG_GET_IN_OPTS {&0012FEA0[] [GO0_0x3ffffff8]}
+2017/08/12 08:00:48.966 COM14(0)-(trace)->: MSG_GET_IN_OPTS {&00371698[] [LBR_STATUS|LLC_STATUS|ESCAPE_MODE]}
+2017/08/12 08:00:48.966 COM14(0)-(trace)->: MSG_GET_IN_OPTS {&0012FEA4[] [GO1_0x3ff80000]}
+2017/08/12 08:00:48.966 COM14(0)-(trace)->: MSG_GET_IN_OPTS {&0037169C[] [DCTS|DDSR|TERI|DDCD|CTS|DSR|RI|DCD|DR|OE|PE|FE|BI|THRE|TEMT|FIFOERR|RBR_STATUS|RLC_STATUS|BREAK_STATUS]}
+2017/08/12 08:00:48.966 COM14(0)-(trace)->: MSG_GET_IN_OPTS {&0012FEA8[] [GO2_0x3fffffff]}
+2017/08/12 08:00:48.966 COM14(0)-(trace)->: MSG_GET_IN_OPTS {&0012FEAC[] [GO3_0x3fffffff]}
+2017/08/12 08:00:48.966 COM14(0)-(trace)->: MSG_FAIL_IN_OPTS {[]}
+2017/08/12 08:00:48.966 COM14(0)-(trace)->: MSG_FAIL_IN_OPTS {[]}
+2017/08/12 08:00:48.966 COM14(0)-(trace)->: MSG_FAIL_IN_OPTS {[]}
+2017/08/12 08:00:48.966 COM14(0)-(trace)->: MSG_FAIL_IN_OPTS {[]}
+2017/08/12 08:00:48.966 COM14(0)<-(trace)-CNCB0(1): MSG_COUNT_REPEATS {&0012FE94[0x0] MSG_GET_IN_OPTS}
+2017/08/12 08:00:48.966 COM14(0)<-(trace)-CNCB0(1): MSG_GET_IN_OPTS {&0012FEA0[] [GO0_0x3ffffff8]}
+2017/08/12 08:00:48.966 COM14(0)<-(trace)-CNCB0(1): MSG_GET_IN_OPTS {&00481B30[] [LBR_STATUS|LLC_STATUS|ESCAPE_MODE]}
+2017/08/12 08:00:48.966 COM14(0)<-(trace)-CNCB0(1): MSG_GET_IN_OPTS {&0012FEA4[] [GO1_0x3ff80000]}
+2017/08/12 08:00:48.966 COM14(0)<-(trace)-CNCB0(1): MSG_GET_IN_OPTS {&00481B34[] [DCTS|DDSR|TERI|DDCD|CTS|DSR|RI|DCD|DR|OE|PE|FE|BI|THRE|TEMT|FIFOERR|RBR_STATUS|RLC_STATUS|BREAK_STATUS]}
+2017/08/12 08:00:48.966 COM14(0)<-(trace)-CNCB0(1): MSG_GET_IN_OPTS {&0012FEA8[] [GO2_0x3fffffff]}
+2017/08/12 08:00:48.966 COM14(0)<-(trace)-CNCB0(1): MSG_GET_IN_OPTS {&0012FEAC[] [GO3_0x3fffffff]}
+2017/08/12 08:00:48.966 COM14(0)<-(trace)-CNCB0(1): MSG_FAIL_IN_OPTS {[]}
+2017/08/12 08:00:48.966 COM14(0)<-(trace)-CNCB0(1): MSG_FAIL_IN_OPTS {[]}
+2017/08/12 08:00:48.966 COM14(0)<-(trace)-CNCB0(1): MSG_FAIL_IN_OPTS {[]}
+2017/08/12 08:00:48.966 COM14(0)<-(trace)-CNCB0(1): MSG_FAIL_IN_OPTS {[]}
+2017/08/12 08:00:48.966 COM14(0)<-(trace)-TCP(2): MSG_COUNT_REPEATS {&0012FE94[0x0] MSG_GET_IN_OPTS}
+2017/08/12 08:00:48.966 COM14(0)<-(trace)-TCP(2): MSG_GET_IN_OPTS {&0012FEA0[] [LBR_STATUS|LLC_STATUS|ESCAPE_MODE|GO0_0x3ffffff8]}
+2017/08/12 08:00:48.966 COM14(0)<-(trace)-TCP(2): MSG_GET_IN_OPTS {&0012FEA4[] [DCTS|DDSR|TERI|DDCD|CTS|DSR|RI|DCD|DR|OE|PE|FE|BI|THRE|TEMT|FIFOERR|RBR_STATUS|RLC_STATUS|BREAK_STATUS|GO1_0x3ff80000]}
+2017/08/12 08:00:48.966 COM14(0)<-(trace)-TCP(2): MSG_GET_IN_OPTS {&0012FEA8[] [GO2_0x3fffffff]}
+2017/08/12 08:00:48.966 COM14(0)<-(trace)-TCP(2): MSG_GET_IN_OPTS {&0012FEAC[] [GO3_0x3fffffff]}
+2017/08/12 08:00:48.966 COM14(0)<-(trace)-TCP(2): MSG_FAIL_IN_OPTS {[]}
+2017/08/12 08:00:48.966 COM14(0)<-(trace)-TCP(2): MSG_FAIL_IN_OPTS {[]}
+2017/08/12 08:00:48.966 COM14(0)<-(trace)-TCP(2): MSG_FAIL_IN_OPTS {[]}
+2017/08/12 08:00:48.966 COM14(0)<-(trace)-TCP(2): MSG_FAIL_IN_OPTS {[]}
+2017/08/12 08:00:48.966 COM14(0)-(trace)->: MSG_FAIL_IN_OPTS {[]}
+2017/08/12 08:00:48.966 COM14(0)-(trace)->: MSG_FAIL_IN_OPTS {[]}
+2017/08/12 08:00:48.997 COM14(0)-(trace)->: MSG_CONNECT {true}
+2017/08/12 08:00:48.997 COM14(0)<-(trace)-CNCB0(1): MSG_FAIL_IN_OPTS {[]}
+2017/08/12 08:00:48.997 COM14(0)<-(trace)-CNCB0(1): MSG_FAIL_IN_OPTS {[]}
+2017/08/12 08:00:48.997 COM14(0)<-(trace)-CNCB0(1): MSG_CONNECT {true}
+2017/08/12 08:00:48.997 COM14(0)<-(trace)-CNCB0(1): MSG_LINE_DATA {[13]:
+  7f 02 70 01 4d 6d 0a 03 ff 02 70 4d 03           * ..p.Mm....pM.    *}
+2017/08/12 08:00:48.997 COM14(0)-(trace)->: MSG_LINE_DATA {[1]:
+  02                                               * .                *}
+2017/08/12 08:00:48.997 COM14(0)-(trace)->: MSG_LINE_DATA {[3]:
+  70 10 4d                                         * p.M              *}
+2017/08/12 08:00:49.013 COM14(0)-(trace)->: MSG_LINE_DATA {[1]:
+  02                                               * .                *}
+2017/08/12 08:00:49.013 COM14(0)-(trace)->: MSG_LINE_DATA {[5]:
+  70 10 04 4d 03                                   * p..M.            *}
+2017/08/12 08:00:52.335 COM14(0)<-(trace)-CNCB0(1): MSG_LINE_DATA {[8]:
+  ff 02 f0 01 4d 6d 0a 03                          * ....Mm..         *}
+2017/08/12 08:00:52.335 COM14(0)-(trace)->: MSG_LINE_DATA {[1]:
+  02                                               * .                *}
+2017/08/12 08:00:52.335 COM14(0)-(trace)->: MSG_LINE_DATA {[8]:
+  f0 03 00 04 4d 0d 0f 03                          * ....M...         *}
+2017/08/12 08:00:52.367 COM14(0)<-(trace)-CNCB0(1): MSG_LINE_DATA {[9]:
+  ff 02 83 02 74 01 04 14 03                       * ....t....        *}
+2017/08/12 08:00:52.367 COM14(0)-(trace)->: MSG_LINE_DATA {[1]:
+  02                                               * .                *}
+2017/08/12 08:00:52.367 COM14(0)-(trace)->: MSG_LINE_DATA {[9]:
+  83 04 00 04 74 05 b1 20 03                       * ....t.. .        *}
+2017/08/12 08:00:52.538 COM14(0)<-(trace)-CNCB0(1): MSG_LINE_DATA {[9]:
+  ff 02 83 02 00 80 bf 17 03                       * .........        *}
+2017/08/12 08:00:52.569 COM14(0)-(trace)->: MSG_LINE_DATA {[1]:
+  02                                               * .                *}
+2017/08/12 08:00:52.569 COM14(0)-(trace)->: MSG_LINE_DATA {[64]:
+  83 83 00 04 00 00 02 08 f4 f7 35 37 33 0b 03 09  * ..........573... *
+  91 97 80 20 cb 4b 08 4e fa 28 0b 03 09 00 6d dd  * ... .K.N.(....m. *
+  00 00 01 18 04 ff 90 00 00 00 00 00 00 00 00 00  * ................ *
+  00 4d 70 ff ff ff 00 80 c1 00 9f 32 5e 00 00 00  * .Mp........2^... *}
+2017/08/12 08:00:52.569 COM14(0)-(trace)->: MSG_LINE_DATA {[64]:
+  00 ff 00 0c 90 00 24 fb 9a ff ff 19 99 05 1e 7f  * ......$......... *
+  f8 85 0c 05 01 a7 00 6b ee ff ff ff ff ff ff ff  * .......k........ *
+  ff ff ff ff ff 30 30 30 35 3d 20 00 00 00 00 00  * .....0005= ..... *
+  00 ff ff ff ff 30 05 04 35 05 11 08 07 01 4b 0a  * .....0..5.....K. *}
+2017/08/12 08:00:52.569 COM14(0)-(trace)->: MSG_LINE_DATA {[8]:
+  00 00 7a 00 02 2e eb 03                          * ..z.....         *}
+2017/08/12 08:02:03.581 COM14(0)<-(trace)-TCP(2): MSG_CONNECT {true}
+2017/08/12 08:04:32.343 COM14(0)-(trace)->: MSG_LINE_DATA {[0]:}
+2017/08/12 08:05:07.388 COM14(0)<-(trace)-CNCB0(1): MSG_LINE_DATA {[8]:
+  ff 02 f0 01 4d 6d 0a 03                          * ....Mm..         *}
+2017/08/12 08:05:08.480 COM14(0)<-(trace)-CNCB0(1): MSG_LINE_DATA {[8]:
+  ff 02 f0 01 4d 6d 0a 03                          * ....Mm..         *}
+2017/08/12 08:05:09.572 COM14(0)<-(trace)-CNCB0(1): MSG_LINE_DATA {[5]:
+  ff 02 70 4d 03                                   * ..pM.            *}

@@ -1,0 +1,99 @@
+2017-08-08 08:29:27.6038 #      ALL # ************************************************************************************************************************
+2017-08-08 08:29:27.7130 #      ALL # SPORTident.ConfigPlus (v2.0.3.17107) started
+2017-08-08 08:29:27.7130 #      ALL # Settings file located at: C:\Users\Adam\AppData\Roaming\SPORTident\Config\SPORTident.ConfigPlus.settings
+2017-08-08 08:29:27.7130 #      ALL # Starting up application, runlevel is set to: Startup...
+2017-08-08 08:29:27.7286 #      ALL # External reference created to mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+2017-08-08 08:29:27.7286 #      ALL # External reference created to System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2017-08-08 08:29:27.7286 #      ALL # External reference created to System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+2017-08-08 08:29:27.7286 #      ALL # External reference created to System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+2017-08-08 08:29:27.7286 #      ALL # External reference created to YAXLib, Version=2.0.1.0, Culture=neutral, PublicKeyToken=e21655a665f6ae1b
+2017-08-08 08:29:27.7286 #      ALL # External reference created to SPORTident.Communication, Version=2.17.6296.17105, Culture=neutral, PublicKeyToken=e21655a665f6ae1b
+2017-08-08 08:29:27.7286 #      ALL # External reference created to ObjectListView, Version=2.9.1.27756, Culture=neutral, PublicKeyToken=b1c5bf581481bcd4
+2017-08-08 08:29:27.7286 #      ALL # External reference created to Microsoft.WindowsAPICodePack.Shell, Version=1.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2017-08-08 08:29:27.7286 #      ALL # External reference created to System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+2017-08-08 08:29:27.7286 #      ALL # External reference created to Ionic.Zip, Version=1.9.1.8, Culture=neutral, PublicKeyToken=edbe51ad942a3f5c
+2017-08-08 08:29:27.7286 #      ALL # External reference created to ListViewPrinter, Version=2.5.0.27757, Culture=neutral, PublicKeyToken=21b031892bc54fb5
+2017-08-08 08:29:27.7286 #      ALL # External reference created to System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+2017-08-08 08:29:27.7286 #     FINE # Initializing localization library...
+2017-08-08 08:29:29.2262 #      ALL # ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2017-08-08 08:29:29.2262 #     FINE # Application environment information:
+2017-08-08 08:29:29.2262 #     FINE # Application execution path: C:\SportSoftware\ConfigPlus
+2017-08-08 08:29:29.2262 #     FINE # Application settings path: C:\Users\Adam\AppData\Roaming\SPORTident\Config
+2017-08-08 08:29:29.2262 #     FINE # Application log path: C:\Users\Adam\AppData\Roaming\SPORTident\Config\log
+2017-08-08 08:29:29.2262 #     FINE # Firmware update path: C:\Users\Adam\AppData\Roaming\SPORTident\Config\updates\firmware
+2017-08-08 08:29:29.2262 #      ALL # ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2017-08-08 08:29:29.2262 #     INFO # Settings loading...
+2017-08-08 08:29:29.6006 #     FINE # Loading and applying settings from file C:\Users\Adam\AppData\Roaming\SPORTident\Config\SPORTident.ConfigPlus.settings
+2017-08-08 08:29:35.9030 #     INFO # Log level set to Info
+2017-08-08 08:29:45.4034 #     INFO # Settings and UI loading...
+2017-08-08 08:29:49.8651 #     INFO # Application settings saved to file.
+2017-08-08 08:29:50.6607 #  WARNING # Test mode disabled
+2017-08-08 08:29:55.1223 #     INFO # Application settings saved to file.
+2017-08-08 08:29:55.4967 #     INFO # Device COM43 (SPORTident BS series 7/8 #171105 @ USB) @ Baudrate 38400 opened.
+2017-08-08 08:29:55.6683 #     INFO # Target device set to direct
+2017-08-08 08:29:55.7931 #     INFO # Device configuration read
+2017-08-08 08:29:56.5263 #     INFO # Station time received, round trip time was 46 ms.
+2017-08-08 08:29:56.9631 #     INFO # Application settings saved to file.
+2017-08-08 08:29:57.0567 #     INFO # Device COM43 (SPORTident BS series 7/8 #171105 @ USB) @ Baudrate 38400 opened.
+2017-08-08 08:46:37.1608 #     INFO # Application settings saved to file.
+2017-08-08 08:46:40.6864 #     INFO # Application settings saved to file.
+2017-08-08 08:46:40.9360 #     INFO # Application settings saved to file.
+2017-08-08 08:46:41.0296 #     INFO # Device COM2 (SPORTident BS series 7/8 #171105 @ USB) @ Baudrate 38400 opened.
+2017-08-08 08:46:41.0452 #     INFO # Target device set to direct
+2017-08-08 08:46:41.2324 #     INFO # Device configuration read
+2017-08-08 08:46:41.4352 #     INFO # Station time received, round trip time was 78 ms.
+2017-08-08 08:47:51.2141 #     INFO # Application settings saved to file.
+2017-08-08 08:48:28.7321 #     INFO # Application settings saved to file.
+2017-08-08 08:48:29.9646 #     INFO # Application settings saved to file.
+2017-08-08 08:48:30.0894 #   SEVERE # Failed to open device connection to COM44 (com0com - serial port emulator# @ COM0COM)
+2017-08-08 08:48:30.0894 #   SEVERE # System.UnauthorizedAccessException: A(z) „COM44” porthoz való hozzáférés megtagadva.
+   a következő helyen: System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   a következő helyen: System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   a következő helyen: System.IO.Ports.SerialPort.Open()
+   a következő helyen: SPORTident.Communication.Communication._openDevice()
+   a következő helyen: SPORTident.Communication.Communication.Open()
+   a következő helyen: SPORTident.ConfigPlus.FormMain._openSiComm(DeviceInfo device, TargetDevice target, Boolean keepCurrentBaudrate)
+2017-08-08 08:48:47.2494 #     INFO # Application settings saved to file.
+2017-08-08 08:48:47.4522 #     INFO # Application settings saved to file.
+2017-08-08 08:48:47.4522 #   SEVERE # Failed to open device connection to COM44 (com0com - serial port emulator# @ COM0COM)
+2017-08-08 08:48:47.4522 #   SEVERE # System.UnauthorizedAccessException: A(z) „COM44” porthoz való hozzáférés megtagadva.
+   a következő helyen: System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   a következő helyen: System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   a következő helyen: System.IO.Ports.SerialPort.Open()
+   a következő helyen: SPORTident.Communication.Communication._openDevice()
+   a következő helyen: SPORTident.Communication.Communication.Open()
+   a következő helyen: SPORTident.ConfigPlus.FormMain._openSiComm(DeviceInfo device, TargetDevice target, Boolean keepCurrentBaudrate)
+2017-08-08 08:48:52.8030 #     INFO # Application settings saved to file.
+2017-08-08 08:48:53.0526 #     INFO # Application settings saved to file.
+2017-08-08 08:48:53.0526 #   SEVERE # Failed to open device connection to COM43 (SPORTident BS series 7/8 #171105 @ USB)
+2017-08-08 08:48:53.0526 #   SEVERE # System.UnauthorizedAccessException: A(z) „COM43” porthoz való hozzáférés megtagadva.
+   a következő helyen: System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   a következő helyen: System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   a következő helyen: System.IO.Ports.SerialPort.Open()
+   a következő helyen: SPORTident.Communication.Communication._openDevice()
+   a következő helyen: SPORTident.Communication.Communication.Open()
+   a következő helyen: SPORTident.ConfigPlus.FormMain._openSiComm(DeviceInfo device, TargetDevice target, Boolean keepCurrentBaudrate)
+2017-08-08 08:48:57.3738 #     INFO # Application settings saved to file.
+2017-08-08 08:49:23.0514 #     INFO # Application settings saved to file.
+2017-08-08 08:49:23.3010 #     INFO # Application settings saved to file.
+2017-08-08 08:49:23.3010 #   SEVERE # Failed to open device connection to COM44 (com0com - serial port emulator# @ COM0COM)
+2017-08-08 08:49:23.3010 #   SEVERE # System.UnauthorizedAccessException: A(z) „COM44” porthoz való hozzáférés megtagadva.
+   a következő helyen: System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   a következő helyen: System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   a következő helyen: System.IO.Ports.SerialPort.Open()
+   a következő helyen: SPORTident.Communication.Communication._openDevice()
+   a következő helyen: SPORTident.Communication.Communication.Open()
+   a következő helyen: SPORTident.ConfigPlus.FormMain._openSiComm(DeviceInfo device, TargetDevice target, Boolean keepCurrentBaudrate)
+2017-08-08 08:49:33.4099 #     INFO # Application settings saved to file.
+2017-08-08 08:49:33.6439 #     INFO # Application settings saved to file.
+2017-08-08 08:49:33.7375 #     INFO # Device COM43 (SPORTident BS series 7/8 #171105 @ USB) @ Baudrate 38400 opened.
+2017-08-08 08:49:33.7531 #     INFO # Target device set to direct
+2017-08-08 08:49:33.8935 #     INFO # Device configuration read
+2017-08-08 08:49:34.1119 #     INFO # Station time received, round trip time was 109 ms.
+2017-08-08 08:49:37.2475 #     INFO # Application settings saved to file.
+2017-08-08 08:49:37.3411 #     INFO # Device COM43 (SPORTident BS series 7/8 #171105 @ USB) @ Baudrate 38400 opened.
+2017-08-08 08:49:37.3723 #     INFO # Target device set to direct
+2017-08-08 08:49:37.5127 #     INFO # Device configuration read
+2017-08-08 08:49:37.6375 #     INFO # Station time received, round trip time was 62 ms.
+2017-08-08 08:49:37.9651 #     INFO # Application settings saved to file.
+2017-08-08 08:49:38.0587 #     INFO # Device COM43 (SPORTident BS series 7/8 #171105 @ USB) @ Baudrate 38400 opened.

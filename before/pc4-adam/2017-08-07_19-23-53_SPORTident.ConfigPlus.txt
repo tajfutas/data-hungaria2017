@@ -1,0 +1,44 @@
+[General information]
+Report created:	2017.08.07. 19:23:53
+Report file name:	C:\Users\Adam\AppData\Roaming\SPORTident\Config\CrashReports\2017-08-07_19-23-53_SPORTident.ConfigPlus.txt
+Name, version:	SPORTident.Config+ v2.0.3.0
+Executable path:	C:\SportSoftware\ConfigPlus\SPORTident.ConfigPlus.exe
+Start time:	2017.08.07. 19:19:44 (0d 00h 04m 08s)
+Is elevated:	False
+Debug build:	False
+Settings file	C:\Users\Adam\AppData\Roaming\SPORTident\Config\SPORTident.ConfigPlus.settings
+Current log file	C:\Users\Adam\AppData\Roaming\SPORTident\Config\log\2017-08-07_19-19-44 SPORTident.ConfigPlus.log
+Operating system:	Microsoft Windows 7 Home Premium Multiprocessor Free (64-bit); v6.1.7601, Service Pack 1
+Machine details:	CPU: 2x GenuineIntel Pentium(R) Dual-Core CPU       T4500  @ 2.30GHz; MEM: 4 092 176 KB total, 3 014 560 KB available
+System uptime:	2017.08.07. 6:51:24 (0d 12h 32m 28s)
+Current culture:	hu-HU
+Current UI culture:	hu-HU
+Administrator:	True
+UAC enabled:	False
+.NET Framework CLR Version:	4.0.30319.42000
+
+[Exception details]
+Type	System.IO.IOException
+Message	Egy rendszerhez csatlakoztatott eszköz nem működik.
+
+Source	System
+Method	WinIOError
+Line	0
+Column	0
+
+[Stack trace]
+   a következő helyen: System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   a következő helyen: System.IO.Ports.SerialStream.EndWrite(IAsyncResult asyncResult)
+   a következő helyen: System.IO.Ports.SerialStream.Write(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   a következő helyen: System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   a következő helyen: SPORTident.Communication.Communication._sendDataToDevice(ActionItem actionToSend)
+   a következő helyen: SPORTident.Communication.Communication._sendCurrentInstruction()
+   a következő helyen: SPORTident.Communication.Communication._retryCurrentInstruction(Boolean keepBaudrate)
+   a következő helyen: SPORTident.Communication.Communication._timeOutTimerTick(Object stateInfo)
+   a következő helyen: System.Threading.TimerQueueTimer.CallCallbackInContext(Object state)
+   a következő helyen: System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   a következő helyen: System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   a következő helyen: System.Threading.TimerQueueTimer.CallCallback()
+   a következő helyen: System.Threading.TimerQueueTimer.Fire()
+   a következő helyen: System.Threading.TimerQueue.FireNextTimers()
+   a következő helyen: System.Threading.TimerQueue.AppDomainTimerCallback()

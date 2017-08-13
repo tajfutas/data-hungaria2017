@@ -1,0 +1,39 @@
+2017-08-09 08:43:13.3482 #      ALL # ************************************************************************************************************************
+2017-08-09 08:43:13.3752 #      ALL # SPORTident.ConfigPlus (v2.0.3.17107) started
+2017-08-09 08:43:13.3752 #      ALL # Settings file located at: C:\Users\Adam\AppData\Roaming\SPORTident\Config\SPORTident.ConfigPlus.settings
+2017-08-09 08:43:13.3752 #      ALL # Starting up application, runlevel is set to: Startup...
+2017-08-09 08:43:13.3902 #      ALL # External reference created to mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+2017-08-09 08:43:13.3912 #      ALL # External reference created to System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2017-08-09 08:43:13.3912 #      ALL # External reference created to System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+2017-08-09 08:43:13.3912 #      ALL # External reference created to System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+2017-08-09 08:43:13.3912 #      ALL # External reference created to YAXLib, Version=2.0.1.0, Culture=neutral, PublicKeyToken=e21655a665f6ae1b
+2017-08-09 08:43:13.3912 #      ALL # External reference created to SPORTident.Communication, Version=2.17.6296.17105, Culture=neutral, PublicKeyToken=e21655a665f6ae1b
+2017-08-09 08:43:13.3922 #      ALL # External reference created to ObjectListView, Version=2.9.1.27756, Culture=neutral, PublicKeyToken=b1c5bf581481bcd4
+2017-08-09 08:43:13.3922 #      ALL # External reference created to Microsoft.WindowsAPICodePack.Shell, Version=1.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2017-08-09 08:43:13.3922 #      ALL # External reference created to System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+2017-08-09 08:43:13.3922 #      ALL # External reference created to Ionic.Zip, Version=1.9.1.8, Culture=neutral, PublicKeyToken=edbe51ad942a3f5c
+2017-08-09 08:43:13.3932 #      ALL # External reference created to ListViewPrinter, Version=2.5.0.27757, Culture=neutral, PublicKeyToken=21b031892bc54fb5
+2017-08-09 08:43:13.3932 #      ALL # External reference created to System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+2017-08-09 08:43:13.3932 #     FINE # Initializing localization library...
+2017-08-09 08:43:14.0372 #      ALL # ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2017-08-09 08:43:14.0372 #     FINE # Application environment information:
+2017-08-09 08:43:14.0372 #     FINE # Application execution path: C:\SportSoftware\ConfigPlus
+2017-08-09 08:43:14.0372 #     FINE # Application settings path: C:\Users\Adam\AppData\Roaming\SPORTident\Config
+2017-08-09 08:43:14.0372 #     FINE # Application log path: C:\Users\Adam\AppData\Roaming\SPORTident\Config\log
+2017-08-09 08:43:14.0372 #     FINE # Firmware update path: C:\Users\Adam\AppData\Roaming\SPORTident\Config\updates\firmware
+2017-08-09 08:43:14.0382 #      ALL # ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2017-08-09 08:43:14.0402 #     INFO # Settings loading...
+2017-08-09 08:43:14.1592 #     FINE # Loading and applying settings from file C:\Users\Adam\AppData\Roaming\SPORTident\Config\SPORTident.ConfigPlus.settings
+2017-08-09 08:43:14.6643 #     INFO # Log level set to Info
+2017-08-09 08:43:17.3914 #     INFO # Settings and UI loading...
+2017-08-09 08:43:20.3976 #  WARNING # Test mode disabled
+2017-08-09 08:43:26.7350 #     INFO # Application settings saved to file.
+2017-08-09 08:43:30.4642 #     INFO # Application settings saved to file.
+2017-08-09 08:43:30.6032 #     INFO # Device COM42 (SPORTident BS series 7/8 #133364 @ USB) @ Baudrate 38400 opened.
+2017-08-09 08:43:30.7802 #     INFO # Target device set to direct
+2017-08-09 08:43:30.8602 #     INFO # Device configuration read
+2017-08-09 08:43:31.2822 #     INFO # Station time received, round trip time was 27 ms.
+2017-08-09 08:43:31.6742 #     INFO # Application settings saved to file.
+2017-08-09 08:43:31.7673 #     INFO # Device COM42 (SPORTident BS series 7/8 #133364 @ USB) @ Baudrate 38400 opened.
+2017-08-09 10:48:18.1404 #  WARNING # Device is not initialized or already closed.
+2017-08-09 10:48:18.1404 #  WARNING # Closing device COM42 (SPORTident BS series 7/8 #133364 @ USB) failed.

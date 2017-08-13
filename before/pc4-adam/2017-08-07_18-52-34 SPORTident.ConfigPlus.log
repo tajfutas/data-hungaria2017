@@ -1,0 +1,436 @@
+2017-08-07 18:52:34.4727 #      ALL # ************************************************************************************************************************
+2017-08-07 18:52:34.4727 #      ALL # SPORTident.ConfigPlus (v2.0.3.17107) started
+2017-08-07 18:52:34.4727 #      ALL # Settings file located at: C:\Users\Adam\AppData\Roaming\SPORTident\Config\SPORTident.ConfigPlus.settings
+2017-08-07 18:52:34.4727 #      ALL # Starting up application, runlevel is set to: Startup...
+2017-08-07 18:52:34.4727 #      ALL # External reference created to mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+2017-08-07 18:52:34.4727 #      ALL # External reference created to System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2017-08-07 18:52:34.4727 #      ALL # External reference created to System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+2017-08-07 18:52:34.4727 #      ALL # External reference created to System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+2017-08-07 18:52:34.4727 #      ALL # External reference created to YAXLib, Version=2.0.1.0, Culture=neutral, PublicKeyToken=e21655a665f6ae1b
+2017-08-07 18:52:34.4727 #      ALL # External reference created to SPORTident.Communication, Version=2.17.6296.17105, Culture=neutral, PublicKeyToken=e21655a665f6ae1b
+2017-08-07 18:52:34.4727 #      ALL # External reference created to ObjectListView, Version=2.9.1.27756, Culture=neutral, PublicKeyToken=b1c5bf581481bcd4
+2017-08-07 18:52:34.4727 #      ALL # External reference created to Microsoft.WindowsAPICodePack.Shell, Version=1.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2017-08-07 18:52:34.4727 #      ALL # External reference created to System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+2017-08-07 18:52:34.4727 #      ALL # External reference created to Ionic.Zip, Version=1.9.1.8, Culture=neutral, PublicKeyToken=edbe51ad942a3f5c
+2017-08-07 18:52:34.4727 #      ALL # External reference created to ListViewPrinter, Version=2.5.0.27757, Culture=neutral, PublicKeyToken=21b031892bc54fb5
+2017-08-07 18:52:34.4727 #      ALL # External reference created to System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+2017-08-07 18:52:34.4727 #     FINE # Initializing localization library...
+2017-08-07 18:52:34.5195 #      ALL # ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2017-08-07 18:52:34.5195 #     FINE # Application environment information:
+2017-08-07 18:52:34.5195 #     FINE # Application execution path: C:\SportSoftware\ConfigPlus
+2017-08-07 18:52:34.5195 #     FINE # Application settings path: C:\Users\Adam\AppData\Roaming\SPORTident\Config
+2017-08-07 18:52:34.5195 #     FINE # Application log path: C:\Users\Adam\AppData\Roaming\SPORTident\Config\log
+2017-08-07 18:52:34.5195 #     FINE # Firmware update path: C:\Users\Adam\AppData\Roaming\SPORTident\Config\updates\firmware
+2017-08-07 18:52:34.5195 #      ALL # ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2017-08-07 18:52:34.5195 #     INFO # Settings loading...
+2017-08-07 18:52:34.5351 #     FINE # Loading and applying settings from file C:\Users\Adam\AppData\Roaming\SPORTident\Config\SPORTident.ConfigPlus.settings
+2017-08-07 18:52:34.5975 #     INFO # Log level set to Info
+2017-08-07 18:52:35.3619 #     INFO # Settings and UI loading...
+2017-08-07 18:52:36.0483 #     INFO # Application settings saved to file.
+2017-08-07 18:52:36.3759 #  WARNING # Test mode disabled
+2017-08-07 18:52:49.6047 #     INFO # Application settings saved to file.
+2017-08-07 18:52:49.7139 #     INFO # Device COM42 (SPORTident BS series 7/8 #133364 @ USB) @ Baudrate 38400 opened.
+2017-08-07 18:52:49.7763 #     INFO # Target device set to remote
+2017-08-07 18:52:50.0571 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:52:50.0727 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 1. try
+2017-08-07 18:52:50.6187 #     INFO # Device configuration read
+2017-08-07 18:52:50.8995 #     INFO # Station time received, round trip time was 109 ms.
+2017-08-07 18:52:50.9151 #     INFO # Target device set to direct
+2017-08-07 18:53:02.9895 #     INFO # Application settings saved to file.
+2017-08-07 18:53:03.0987 #     INFO # Device COM42 (SPORTident BS series 7/8 #133364 @ USB) @ Baudrate 38400 opened.
+2017-08-07 18:53:03.1143 #     INFO # Target device set to remote
+2017-08-07 18:53:03.6291 #     INFO # Device configuration written, checking...
+2017-08-07 18:53:03.8475 #     INFO # Station time received, round trip time was 140 ms.
+2017-08-07 18:53:04.0659 #     INFO # Station time set.
+2017-08-07 18:53:04.1439 #     INFO # Station backup memory erased.
+2017-08-07 18:53:04.2375 #     INFO # Station switched to standby mode.
+2017-08-07 18:53:04.2531 #     INFO # Target device set to direct
+2017-08-07 18:53:10.4151 #     INFO # Application settings saved to file.
+2017-08-07 18:53:10.5087 #     INFO # Device COM42 (SPORTident BS series 7/8 #133364 @ USB) @ Baudrate 38400 opened.
+2017-08-07 18:53:10.5243 #     INFO # Target device set to remote
+2017-08-07 18:53:10.7895 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:53:10.7895 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 1. try
+2017-08-07 18:53:11.2263 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:53:11.2263 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 2. try
+2017-08-07 18:53:11.6631 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:53:11.6631 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 3. try
+2017-08-07 18:53:12.0999 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:53:12.0999 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 4. try
+2017-08-07 18:53:12.5367 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:53:12.5367 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 5. try
+2017-08-07 18:53:12.9735 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:53:12.9891 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 6. try
+2017-08-07 18:53:13.4259 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:53:13.4259 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 7. try
+2017-08-07 18:53:13.8627 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:53:13.8627 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 8. try
+2017-08-07 18:53:14.2995 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:53:14.3151 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 9. try
+2017-08-07 18:53:15.0795 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:53:15.0795 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 1. try
+2017-08-07 18:53:15.5163 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:53:15.5163 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 2. try
+2017-08-07 18:53:15.9531 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:53:15.9531 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 3. try
+2017-08-07 18:53:16.3899 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:53:16.3899 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 4. try
+2017-08-07 18:53:17.0607 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:53:17.0607 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 1. try
+2017-08-07 18:53:17.7939 #     INFO # Device configuration written, checking...
+2017-08-07 18:53:18.0123 #     INFO # Station time received, round trip time was 124 ms.
+2017-08-07 18:53:19.0575 #     INFO # Station time set.
+2017-08-07 18:53:19.1511 #     INFO # Station backup memory erased.
+2017-08-07 18:53:19.2291 #     INFO # Station switched to standby mode.
+2017-08-07 18:53:19.2603 #     INFO # Target device set to direct
+2017-08-07 18:53:24.3927 #     INFO # Application settings saved to file.
+2017-08-07 18:53:24.5019 #     INFO # Device COM42 (SPORTident BS series 7/8 #133364 @ USB) @ Baudrate 38400 opened.
+2017-08-07 18:53:24.5175 #     INFO # Target device set to remote
+2017-08-07 18:53:25.1415 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:53:25.1415 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 1. try
+2017-08-07 18:53:25.9059 #     INFO # Device configuration written, checking...
+2017-08-07 18:53:26.1087 #     INFO # Station time received, round trip time was 78 ms.
+2017-08-07 18:53:27.1071 #     INFO # Station time set.
+2017-08-07 18:53:27.1851 #     INFO # Station backup memory erased.
+2017-08-07 18:53:27.2631 #     INFO # Station switched to standby mode.
+2017-08-07 18:53:27.2787 #     INFO # Target device set to direct
+2017-08-07 18:54:08.8527 #     INFO # Application settings saved to file.
+2017-08-07 18:54:08.9463 #     INFO # Device COM42 (SPORTident BS series 7/8 #133364 @ USB) @ Baudrate 38400 opened.
+2017-08-07 18:54:08.9619 #     INFO # Target device set to remote
+2017-08-07 18:54:09.4455 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:54:09.4455 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 1. try
+2017-08-07 18:54:10.1787 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:54:10.1787 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 2. try
+2017-08-07 18:54:10.9431 #     INFO # Device configuration written, checking...
+2017-08-07 18:54:11.1771 #     INFO # Station time received, round trip time was 156 ms.
+2017-08-07 18:54:12.0195 #     INFO # Station time set.
+2017-08-07 18:54:12.0975 #     INFO # Station backup memory erased.
+2017-08-07 18:54:12.1911 #     INFO # Station switched to standby mode.
+2017-08-07 18:54:12.2067 #     INFO # Target device set to direct
+2017-08-07 18:54:20.1471 #     INFO # Application settings saved to file.
+2017-08-07 18:54:20.2719 #     INFO # Device COM42 (SPORTident BS series 7/8 #133364 @ USB) @ Baudrate 38400 opened.
+2017-08-07 18:54:20.2719 #     INFO # Target device set to remote
+2017-08-07 18:54:20.5371 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:54:20.5371 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 1. try
+2017-08-07 18:54:20.9739 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:54:20.9739 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 2. try
+2017-08-07 18:54:21.7851 #     INFO # Device configuration written, checking...
+2017-08-07 18:54:22.0035 #     INFO # Station time received, round trip time was 140 ms.
+2017-08-07 18:54:23.0331 #     INFO # Station time set.
+2017-08-07 18:54:23.1111 #     INFO # Station backup memory erased.
+2017-08-07 18:54:23.2047 #     INFO # Station switched to standby mode.
+2017-08-07 18:54:23.2203 #     INFO # Target device set to direct
+2017-08-07 18:54:31.6287 #     INFO # Application settings saved to file.
+2017-08-07 18:54:31.7379 #     INFO # Device COM42 (SPORTident BS series 7/8 #133364 @ USB) @ Baudrate 38400 opened.
+2017-08-07 18:54:31.7535 #     INFO # Target device set to remote
+2017-08-07 18:54:32.0031 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:54:32.0031 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 1. try
+2017-08-07 18:54:32.4399 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:54:32.4399 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 2. try
+2017-08-07 18:54:32.8923 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:54:32.8923 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 3. try
+2017-08-07 18:54:33.3291 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:54:33.3447 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 4. try
+2017-08-07 18:54:33.7815 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:54:33.7815 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 5. try
+2017-08-07 18:54:34.2183 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:54:34.2183 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 6. try
+2017-08-07 18:54:34.6551 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:54:34.6551 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 7. try
+2017-08-07 18:54:35.0919 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:54:35.0919 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 8. try
+2017-08-07 18:54:35.5287 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:54:35.5287 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 9. try
+2017-08-07 18:54:35.9655 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:54:35.9811 #   SEVERE # Communication failed after 10 tries. Sorry, I'm giving up for instruction 'SetSystemData'
+2017-08-07 18:54:37.4319 #     INFO # Application settings saved to file.
+2017-08-07 18:54:37.5255 #     INFO # Device COM42 (SPORTident BS series 7/8 #133364 @ USB) @ Baudrate 38400 opened.
+2017-08-07 18:54:37.5411 #     INFO # Target device set to remote
+2017-08-07 18:54:37.7907 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:54:37.7907 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 1. try
+2017-08-07 18:54:38.2275 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:54:38.2275 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 2. try
+2017-08-07 18:54:38.6643 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:54:38.6643 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 3. try
+2017-08-07 18:54:39.1011 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:54:39.1011 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 4. try
+2017-08-07 18:54:39.5379 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:54:39.5379 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 5. try
+2017-08-07 18:54:39.9747 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:54:39.9747 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 6. try
+2017-08-07 18:54:40.4115 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:54:40.4115 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 7. try
+2017-08-07 18:54:40.8483 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:54:40.8483 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 8. try
+2017-08-07 18:54:41.2851 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:54:41.2851 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 9. try
+2017-08-07 18:54:41.7219 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:54:41.7531 #   SEVERE # Communication failed after 10 tries. Sorry, I'm giving up for instruction 'SetSystemData'
+2017-08-07 18:54:42.9075 #     INFO # Application settings saved to file.
+2017-08-07 18:54:43.0167 #     INFO # Device COM42 (SPORTident BS series 7/8 #133364 @ USB) @ Baudrate 38400 opened.
+2017-08-07 18:54:43.0323 #     INFO # Target device set to remote
+2017-08-07 18:54:43.2819 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:54:43.2975 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 1. try
+2017-08-07 18:54:43.7343 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:54:43.7343 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 2. try
+2017-08-07 18:54:44.1711 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:54:44.1867 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 3. try
+2017-08-07 18:54:44.6235 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:54:44.6235 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 4. try
+2017-08-07 18:54:45.0603 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:54:45.0603 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 5. try
+2017-08-07 18:54:45.4971 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:54:45.4971 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 6. try
+2017-08-07 18:54:45.9339 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:54:45.9339 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 7. try
+2017-08-07 18:54:46.6827 #     INFO # Device configuration written, checking...
+2017-08-07 18:54:46.9167 #     INFO # Station time received, round trip time was 124 ms.
+2017-08-07 18:54:47.0259 #     INFO # Station time set.
+2017-08-07 18:54:47.1039 #     INFO # Station backup memory erased.
+2017-08-07 18:54:47.1819 #     INFO # Station switched to standby mode.
+2017-08-07 18:54:47.2131 #     INFO # Target device set to direct
+2017-08-07 18:55:00.7539 #     INFO # Application settings saved to file.
+2017-08-07 18:55:00.8787 #     INFO # Device COM42 (SPORTident BS series 7/8 #133364 @ USB) @ Baudrate 38400 opened.
+2017-08-07 18:55:00.8943 #     INFO # Target device set to remote
+2017-08-07 18:55:01.1439 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:55:01.1595 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 1. try
+2017-08-07 18:55:01.5963 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:55:01.5963 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 2. try
+2017-08-07 18:55:02.0331 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:55:02.0331 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 3. try
+2017-08-07 18:55:02.4699 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:55:02.4699 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 4. try
+2017-08-07 18:55:02.9067 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:55:02.9223 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 5. try
+2017-08-07 18:55:03.3591 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:55:03.3591 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 6. try
+2017-08-07 18:55:03.7959 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:55:03.7959 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 7. try
+2017-08-07 18:55:04.2327 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:55:04.2327 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 8. try
+2017-08-07 18:55:04.6695 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:55:04.6695 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 9. try
+2017-08-07 18:55:05.5275 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:55:05.5275 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 1. try
+2017-08-07 18:55:06.3075 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:55:06.3075 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 2. try
+2017-08-07 18:55:07.0251 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:55:07.0251 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 3. try
+2017-08-07 18:55:07.7895 #     INFO # Device configuration written, checking...
+2017-08-07 18:55:08.0079 #     INFO # Station time received, round trip time was 124 ms.
+2017-08-07 18:55:09.0531 #     INFO # Station time set.
+2017-08-07 18:55:09.1467 #     INFO # Station backup memory erased.
+2017-08-07 18:55:09.2247 #     INFO # Station switched to standby mode.
+2017-08-07 18:55:09.2403 #     INFO # Target device set to direct
+2017-08-07 18:55:16.7907 #     INFO # Application settings saved to file.
+2017-08-07 18:55:16.9155 #     INFO # Device COM42 (SPORTident BS series 7/8 #133364 @ USB) @ Baudrate 38400 opened.
+2017-08-07 18:55:16.9311 #     INFO # Target device set to remote
+2017-08-07 18:55:17.1807 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:55:17.1807 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 1. try
+2017-08-07 18:55:17.6175 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:55:17.6175 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 2. try
+2017-08-07 18:55:18.0543 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:55:18.0543 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 3. try
+2017-08-07 18:55:18.4911 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:55:18.4911 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 4. try
+2017-08-07 18:55:18.9279 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:55:18.9279 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 5. try
+2017-08-07 18:55:19.3647 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:55:19.3647 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 6. try
+2017-08-07 18:55:19.8015 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:55:19.8015 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 7. try
+2017-08-07 18:55:20.2383 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:55:20.2383 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 8. try
+2017-08-07 18:55:20.6907 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:55:20.6907 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 9. try
+2017-08-07 18:55:21.1275 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:55:21.1431 #   SEVERE # Communication failed after 10 tries. Sorry, I'm giving up for instruction 'SetSystemData'
+2017-08-07 18:55:22.3287 #     INFO # Application settings saved to file.
+2017-08-07 18:55:22.4379 #     INFO # Device COM42 (SPORTident BS series 7/8 #133364 @ USB) @ Baudrate 38400 opened.
+2017-08-07 18:55:22.4379 #     INFO # Target device set to remote
+2017-08-07 18:55:22.7031 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:55:22.7031 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 1. try
+2017-08-07 18:55:23.1399 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:55:23.1555 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 2. try
+2017-08-07 18:55:23.5923 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:55:23.5923 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 3. try
+2017-08-07 18:55:24.0291 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:55:24.0291 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 4. try
+2017-08-07 18:55:24.4659 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:55:24.4659 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 5. try
+2017-08-07 18:55:25.1991 #     INFO # Device configuration written, checking...
+2017-08-07 18:55:25.4955 #     INFO # Station time received, round trip time was 202 ms.
+2017-08-07 18:55:26.0571 #     INFO # Station time set.
+2017-08-07 18:55:26.1819 #     INFO # Station backup memory erased.
+2017-08-07 18:55:26.2755 #     INFO # Station switched to standby mode.
+2017-08-07 18:55:26.2911 #     INFO # Target device set to direct
+2017-08-07 18:55:39.7383 #     INFO # Application settings saved to file.
+2017-08-07 18:55:39.8163 #     INFO # Device COM42 (SPORTident BS series 7/8 #133364 @ USB) @ Baudrate 38400 opened.
+2017-08-07 18:55:39.8475 #     INFO # Target device set to remote
+2017-08-07 18:55:40.0971 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:55:40.0971 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 1. try
+2017-08-07 18:55:40.5339 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:55:40.5339 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 2. try
+2017-08-07 18:55:40.9707 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:55:40.9707 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 3. try
+2017-08-07 18:55:41.4075 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:55:41.4231 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 4. try
+2017-08-07 18:55:41.8599 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:55:41.8599 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 5. try
+2017-08-07 18:55:42.2967 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:55:42.2967 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 6. try
+2017-08-07 18:55:42.7491 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:55:42.7491 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 7. try
+2017-08-07 18:55:43.1859 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:55:43.2015 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 8. try
+2017-08-07 18:55:43.9347 #     INFO # Device configuration written, checking...
+2017-08-07 18:55:44.1531 #     INFO # Station time received, round trip time was 109 ms.
+2017-08-07 18:55:45.1203 #     INFO # Station time set.
+2017-08-07 18:55:45.1983 #     INFO # Station backup memory erased.
+2017-08-07 18:55:45.2919 #     INFO # Station switched to standby mode.
+2017-08-07 18:55:45.3075 #     INFO # Target device set to direct
+2017-08-07 18:55:54.1059 #     INFO # Application settings saved to file.
+2017-08-07 18:55:54.2307 #     INFO # Device COM42 (SPORTident BS series 7/8 #133364 @ USB) @ Baudrate 38400 opened.
+2017-08-07 18:55:54.2307 #     INFO # Target device set to remote
+2017-08-07 18:55:54.4959 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:55:54.5115 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 1. try
+2017-08-07 18:55:54.9483 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:55:54.9483 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 2. try
+2017-08-07 18:55:55.7595 #     INFO # Device configuration written, checking...
+2017-08-07 18:55:55.9779 #     INFO # Station time received, round trip time was 140 ms.
+2017-08-07 18:55:56.0715 #     INFO # Station time set.
+2017-08-07 18:55:56.1963 #     INFO # Station backup memory erased.
+2017-08-07 18:55:56.2899 #     INFO # Station switched to standby mode.
+2017-08-07 18:55:56.3055 #     INFO # Target device set to direct
+2017-08-07 18:56:02.7639 #     INFO # Application settings saved to file.
+2017-08-07 18:56:02.8575 #     INFO # Device COM42 (SPORTident BS series 7/8 #133364 @ USB) @ Baudrate 38400 opened.
+2017-08-07 18:56:02.8731 #     INFO # Target device set to remote
+2017-08-07 18:56:03.1227 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:56:03.1227 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 1. try
+2017-08-07 18:56:03.5595 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:56:03.5595 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 2. try
+2017-08-07 18:56:03.9963 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:56:03.9963 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 3. try
+2017-08-07 18:56:04.4331 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:56:04.4331 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 4. try
+2017-08-07 18:56:04.8699 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:56:04.8699 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 5. try
+2017-08-07 18:56:05.3067 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:56:05.3067 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 6. try
+2017-08-07 18:56:05.7435 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:56:05.7435 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 7. try
+2017-08-07 18:56:06.1803 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:56:06.1959 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 8. try
+2017-08-07 18:56:06.6327 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:56:06.6327 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 9. try
+2017-08-07 18:56:07.0695 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:56:07.0851 #   SEVERE # Communication failed after 10 tries. Sorry, I'm giving up for instruction 'SetSystemData'
+2017-08-07 18:56:09.4563 #     INFO # Application settings saved to file.
+2017-08-07 18:56:09.5499 #     INFO # Device COM42 (SPORTident BS series 7/8 #133364 @ USB) @ Baudrate 38400 opened.
+2017-08-07 18:56:09.5811 #     INFO # Target device set to remote
+2017-08-07 18:56:09.8307 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:56:09.8307 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 1. try
+2017-08-07 18:56:10.2675 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:56:10.2675 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 2. try
+2017-08-07 18:56:10.7043 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:56:10.7199 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 3. try
+2017-08-07 18:56:11.1567 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:56:11.1567 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 4. try
+2017-08-07 18:56:11.5935 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:56:11.5935 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 5. try
+2017-08-07 18:56:12.0459 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:56:12.0459 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 6. try
+2017-08-07 18:56:12.4827 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:56:12.4827 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 7. try
+2017-08-07 18:56:12.9195 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:56:12.9195 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 8. try
+2017-08-07 18:56:13.3563 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:56:13.3719 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 9. try
+2017-08-07 18:56:13.8087 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:56:13.8243 #   SEVERE # Communication failed after 10 tries. Sorry, I'm giving up for instruction 'SetSystemData'
+2017-08-07 18:56:18.0363 #     INFO # Application settings saved to file.
+2017-08-07 18:56:18.1299 #     INFO # Device COM42 (SPORTident BS series 7/8 #133364 @ USB) @ Baudrate 38400 opened.
+2017-08-07 18:56:18.1455 #     INFO # Target device set to remote
+2017-08-07 18:56:18.4263 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:56:18.4263 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 1. try
+2017-08-07 18:56:18.8631 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:56:18.8631 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 2. try
+2017-08-07 18:56:19.3155 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:56:19.3155 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 3. try
+2017-08-07 18:56:19.7523 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:56:19.7523 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 4. try
+2017-08-07 18:56:20.1891 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:56:20.2047 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 5. try
+2017-08-07 18:56:20.6415 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:56:20.6415 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 6. try
+2017-08-07 18:56:21.0783 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:56:21.0783 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 7. try
+2017-08-07 18:56:21.5151 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:56:21.5151 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 8. try
+2017-08-07 18:56:21.9519 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:56:21.9675 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 9. try
+2017-08-07 18:56:22.4043 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:56:22.4199 #   SEVERE # Communication failed after 10 tries. Sorry, I'm giving up for instruction 'SetSystemData'
+2017-08-07 18:56:23.7459 #     INFO # Application settings saved to file.
+2017-08-07 18:56:23.8395 #     INFO # Device COM42 (SPORTident BS series 7/8 #133364 @ USB) @ Baudrate 38400 opened.
+2017-08-07 18:56:23.8551 #     INFO # Target device set to remote
+2017-08-07 18:56:24.1203 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:56:24.1359 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 1. try
+2017-08-07 18:56:24.5727 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:56:24.5883 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 2. try
+2017-08-07 18:56:25.0251 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:56:25.0251 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 3. try
+2017-08-07 18:56:25.4619 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:56:25.4619 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 4. try
+2017-08-07 18:56:25.8987 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:56:25.8987 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 5. try
+2017-08-07 18:56:26.3511 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:56:26.3511 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 6. try
+2017-08-07 18:56:27.3183 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:56:27.3183 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 1. try
+2017-08-07 18:56:27.7551 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:56:27.7707 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 2. try
+2017-08-07 18:56:28.2075 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:56:28.2075 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 3. try
+2017-08-07 18:56:28.9251 #     INFO # Device configuration written, checking...
+2017-08-07 18:56:29.1435 #     INFO # Station time received, round trip time was 124 ms.
+2017-08-07 18:56:30.1107 #     INFO # Station time set.
+2017-08-07 18:56:30.1887 #     INFO # Station backup memory erased.
+2017-08-07 18:56:30.2823 #     INFO # Station switched to standby mode.
+2017-08-07 18:56:30.2979 #     INFO # Target device set to direct
+2017-08-07 18:56:42.5595 #     INFO # Application settings saved to file.
+2017-08-07 18:56:42.6687 #     INFO # Device COM42 (SPORTident BS series 7/8 #133364 @ USB) @ Baudrate 38400 opened.
+2017-08-07 18:56:42.6999 #     INFO # Target device set to remote
+2017-08-07 18:56:42.9651 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:56:42.9651 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 1. try
+2017-08-07 18:56:43.4019 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:56:43.4019 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 2. try
+2017-08-07 18:56:44.2443 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:56:44.2443 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 1. try
+2017-08-07 18:56:44.6811 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:56:44.6967 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 2. try
+2017-08-07 18:56:45.1335 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:56:45.1335 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 3. try
+2017-08-07 18:56:45.5703 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:56:45.5859 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 4. try
+2017-08-07 18:56:46.0227 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:56:46.0227 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 5. try
+2017-08-07 18:56:46.7247 #     INFO # Device configuration written, checking...
+2017-08-07 18:56:47.0991 #     INFO # Station time received, round trip time was 280 ms.
+2017-08-07 18:56:47.9571 #     INFO # Station time set.
+2017-08-07 18:56:48.0351 #     INFO # Station backup memory erased.
+2017-08-07 18:56:48.1287 #     INFO # Station switched to standby mode.
+2017-08-07 18:56:48.1443 #     INFO # Target device set to direct
+2017-08-07 18:58:08.7183 #     INFO # Application settings saved to file.
+2017-08-07 18:58:08.7963 #     INFO # Device COM42 (SPORTident BS series 7/8 #133364 @ USB) @ Baudrate 38400 opened.
+2017-08-07 18:58:08.8275 #     INFO # Target device set to remote
+2017-08-07 18:58:09.0771 #     INFO # Device configuration read
+2017-08-07 18:58:09.2643 #     INFO # Station time received, round trip time was 109 ms.
+2017-08-07 18:58:09.2799 #     INFO # Target device set to direct
+2017-08-07 18:58:33.4599 #     INFO # Application settings saved to file.
+2017-08-07 18:58:33.5847 #     INFO # Device COM42 (SPORTident BS series 7/8 #133364 @ USB) @ Baudrate 38400 opened.
+2017-08-07 18:58:33.6003 #     INFO # Target device set to remote
+2017-08-07 18:58:33.8499 #  WARNING # ERR ::: Device replied with NAK (0x15).
+2017-08-07 18:58:33.8499 #  WARNING # Error received or instruction timed out after 2000 ms, this was the 1. try
+2017-08-07 18:58:34.3335 #     INFO # Device configuration read
+2017-08-07 18:58:34.6767 #     INFO # Station time received, round trip time was 249 ms.
+2017-08-07 18:58:34.6923 #     INFO # Target device set to direct

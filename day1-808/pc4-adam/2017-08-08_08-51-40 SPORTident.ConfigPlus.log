@@ -1,0 +1,46 @@
+2017-08-08 08:51:40.1445 #      ALL # ************************************************************************************************************************
+2017-08-08 08:51:40.1445 #      ALL # SPORTident.ConfigPlus (v2.0.3.17107) started
+2017-08-08 08:51:40.1445 #      ALL # Settings file located at: C:\Users\Adam\AppData\Roaming\SPORTident\Config\SPORTident.ConfigPlus.settings
+2017-08-08 08:51:40.1445 #      ALL # Starting up application, runlevel is set to: Startup...
+2017-08-08 08:51:40.1445 #      ALL # External reference created to mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+2017-08-08 08:51:40.1445 #      ALL # External reference created to System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2017-08-08 08:51:40.1445 #      ALL # External reference created to System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+2017-08-08 08:51:40.1445 #      ALL # External reference created to System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+2017-08-08 08:51:40.1445 #      ALL # External reference created to YAXLib, Version=2.0.1.0, Culture=neutral, PublicKeyToken=e21655a665f6ae1b
+2017-08-08 08:51:40.1445 #      ALL # External reference created to SPORTident.Communication, Version=2.17.6296.17105, Culture=neutral, PublicKeyToken=e21655a665f6ae1b
+2017-08-08 08:51:40.1445 #      ALL # External reference created to ObjectListView, Version=2.9.1.27756, Culture=neutral, PublicKeyToken=b1c5bf581481bcd4
+2017-08-08 08:51:40.1445 #      ALL # External reference created to Microsoft.WindowsAPICodePack.Shell, Version=1.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2017-08-08 08:51:40.1445 #      ALL # External reference created to System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+2017-08-08 08:51:40.1445 #      ALL # External reference created to Ionic.Zip, Version=1.9.1.8, Culture=neutral, PublicKeyToken=edbe51ad942a3f5c
+2017-08-08 08:51:40.1445 #      ALL # External reference created to ListViewPrinter, Version=2.5.0.27757, Culture=neutral, PublicKeyToken=21b031892bc54fb5
+2017-08-08 08:51:40.1445 #      ALL # External reference created to System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+2017-08-08 08:51:40.1445 #     FINE # Initializing localization library...
+2017-08-08 08:51:40.1757 #      ALL # ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2017-08-08 08:51:40.1757 #     FINE # Application environment information:
+2017-08-08 08:51:40.1757 #     FINE # Application execution path: C:\SportSoftware\ConfigPlus
+2017-08-08 08:51:40.1757 #     FINE # Application settings path: C:\Users\Adam\AppData\Roaming\SPORTident\Config
+2017-08-08 08:51:40.1757 #     FINE # Application log path: C:\Users\Adam\AppData\Roaming\SPORTident\Config\log
+2017-08-08 08:51:40.1757 #     FINE # Firmware update path: C:\Users\Adam\AppData\Roaming\SPORTident\Config\updates\firmware
+2017-08-08 08:51:40.1757 #      ALL # ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2017-08-08 08:51:40.1757 #     INFO # Settings loading...
+2017-08-08 08:51:40.1913 #     FINE # Loading and applying settings from file C:\Users\Adam\AppData\Roaming\SPORTident\Config\SPORTident.ConfigPlus.settings
+2017-08-08 08:51:40.2537 #     INFO # Log level set to Info
+2017-08-08 08:51:41.0805 #     INFO # Settings and UI loading...
+2017-08-08 08:51:41.8449 #     INFO # Application settings saved to file.
+2017-08-08 08:51:42.1881 #  WARNING # Test mode disabled
+2017-08-08 08:51:44.9493 #     INFO # Application settings saved to file.
+2017-08-08 08:51:45.1677 #     INFO # Application settings saved to file.
+2017-08-08 08:51:45.1833 #   SEVERE # Failed to open device connection to COM44 (com0com - serial port emulator# @ COM0COM)
+2017-08-08 08:51:45.1833 #   SEVERE # System.UnauthorizedAccessException: A(z) „COM44” porthoz való hozzáférés megtagadva.
+   a következő helyen: System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   a következő helyen: System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   a következő helyen: System.IO.Ports.SerialPort.Open()
+   a következő helyen: SPORTident.Communication.Communication._openDevice()
+   a következő helyen: SPORTident.Communication.Communication.Open()
+   a következő helyen: SPORTident.ConfigPlus.FormMain._openSiComm(DeviceInfo device, TargetDevice target, Boolean keepCurrentBaudrate)
+2017-08-08 08:53:31.0919 #     INFO # Application settings saved to file.
+2017-08-08 08:53:31.3415 #     INFO # Application settings saved to file.
+2017-08-08 08:53:31.4039 #     INFO # Device COM44 (com0com - serial port emulator# @ COM0COM) @ Baudrate 38400 opened.
+2017-08-08 08:53:31.4975 #     INFO # Target device set to direct
+2017-08-08 08:53:31.5911 #     INFO # Device configuration read
+2017-08-08 08:53:31.8875 #     INFO # Station time received, round trip time was 109 ms.

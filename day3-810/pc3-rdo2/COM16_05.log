@@ -1,0 +1,225 @@
+2017/08/10 09:44:21.937 Command Line:
+  {C:\sziebadam\sicomtrace\\hub4com.exe  --baud=38400 --octs=off --no-default-fc-route=All:All --trace-file=COM16_05.log --create-filter=trace --add-filters=0:trace \\.\COM16 --route=0:All \\.\CNCB0 --route=1:0}
+2017/08/10 09:44:21.937 Config:
+_BEGIN_
+  --baud=38400
+  --octs=off
+  --no-default-fc-route=All:All
+  --trace-file=COM16_05.log
+  --create-filter=trace
+  --add-filters=0:trace
+  \\.\COM16
+  --route=0:All
+  \\.\CNCB0
+  --route=1:0
+_END_
+2017/08/10 09:44:22.576 COM16(0)-(trace)->: MSG_LOOP_TEST {00000000}
+2017/08/10 09:44:22.576 COM16(0)<-(trace)-CNCB0(1): MSG_LOOP_TEST {00000000}
+2017/08/10 09:44:22.576 COM16(0)-(trace)->: MSG_SET_OUT_OPTS {[]}
+2017/08/10 09:44:22.576 COM16(0)<-(trace)-CNCB0(1): MSG_SET_OUT_OPTS {[]}
+2017/08/10 09:44:22.576 COM16(0)-(trace)->: MSG_COUNT_REPEATS {&0012FE94[0x0] MSG_GET_IN_OPTS}
+2017/08/10 09:44:22.576 COM16(0)-(trace)->: MSG_GET_IN_OPTS {&0012FEA0[] [GO0_0x3ffffff8]}
+2017/08/10 09:44:22.576 COM16(0)-(trace)->: MSG_GET_IN_OPTS {&003D2CF8[] [LBR_STATUS|LLC_STATUS|ESCAPE_MODE]}
+2017/08/10 09:44:22.576 COM16(0)-(trace)->: MSG_GET_IN_OPTS {&0012FEA4[] [GO1_0x3ff80000]}
+2017/08/10 09:44:22.576 COM16(0)-(trace)->: MSG_GET_IN_OPTS {&003D2CFC[] [DCTS|DDSR|TERI|DDCD|CTS|DSR|RI|DCD|DR|OE|PE|FE|BI|THRE|TEMT|FIFOERR|RBR_STATUS|RLC_STATUS|BREAK_STATUS]}
+2017/08/10 09:44:22.576 COM16(0)-(trace)->: MSG_GET_IN_OPTS {&0012FEA8[] [GO2_0x3fffffff]}
+2017/08/10 09:44:22.576 COM16(0)-(trace)->: MSG_GET_IN_OPTS {&0012FEAC[] [GO3_0x3fffffff]}
+2017/08/10 09:44:22.576 COM16(0)-(trace)->: MSG_FAIL_IN_OPTS {[]}
+2017/08/10 09:44:22.576 COM16(0)-(trace)->: MSG_FAIL_IN_OPTS {[]}
+2017/08/10 09:44:22.576 COM16(0)-(trace)->: MSG_FAIL_IN_OPTS {[]}
+2017/08/10 09:44:22.576 COM16(0)-(trace)->: MSG_FAIL_IN_OPTS {[]}
+2017/08/10 09:44:22.576 COM16(0)<-(trace)-CNCB0(1): MSG_COUNT_REPEATS {&0012FE94[0x0] MSG_GET_IN_OPTS}
+2017/08/10 09:44:22.576 COM16(0)<-(trace)-CNCB0(1): MSG_GET_IN_OPTS {&0012FEA0[] [GO0_0x3ffffff8]}
+2017/08/10 09:44:22.576 COM16(0)<-(trace)-CNCB0(1): MSG_GET_IN_OPTS {&00481A70[] [LBR_STATUS|LLC_STATUS|ESCAPE_MODE]}
+2017/08/10 09:44:22.576 COM16(0)<-(trace)-CNCB0(1): MSG_GET_IN_OPTS {&0012FEA4[] [GO1_0x3ff80000]}
+2017/08/10 09:44:22.576 COM16(0)<-(trace)-CNCB0(1): MSG_GET_IN_OPTS {&00481A74[] [DCTS|DDSR|TERI|DDCD|CTS|DSR|RI|DCD|DR|OE|PE|FE|BI|THRE|TEMT|FIFOERR|RBR_STATUS|RLC_STATUS|BREAK_STATUS]}
+2017/08/10 09:44:22.576 COM16(0)<-(trace)-CNCB0(1): MSG_GET_IN_OPTS {&0012FEA8[] [GO2_0x3fffffff]}
+2017/08/10 09:44:22.576 COM16(0)<-(trace)-CNCB0(1): MSG_GET_IN_OPTS {&0012FEAC[] [GO3_0x3fffffff]}
+2017/08/10 09:44:22.576 COM16(0)<-(trace)-CNCB0(1): MSG_FAIL_IN_OPTS {[]}
+2017/08/10 09:44:22.576 COM16(0)<-(trace)-CNCB0(1): MSG_FAIL_IN_OPTS {[]}
+2017/08/10 09:44:22.592 COM16(0)<-(trace)-CNCB0(1): MSG_FAIL_IN_OPTS {[]}
+2017/08/10 09:44:22.592 COM16(0)<-(trace)-CNCB0(1): MSG_FAIL_IN_OPTS {[]}
+2017/08/10 09:44:22.592 COM16(0)-(trace)->: MSG_FAIL_IN_OPTS {[]}
+2017/08/10 09:44:22.592 COM16(0)-(trace)->: MSG_FAIL_IN_OPTS {[]}
+2017/08/10 09:44:22.592 COM16(0)-(trace)->: MSG_CONNECT {true}
+2017/08/10 09:44:22.592 COM16(0)<-(trace)-CNCB0(1): MSG_FAIL_IN_OPTS {[]}
+2017/08/10 09:44:22.592 COM16(0)<-(trace)-CNCB0(1): MSG_FAIL_IN_OPTS {[]}
+2017/08/10 09:44:22.592 COM16(0)<-(trace)-CNCB0(1): MSG_CONNECT {true}
+2017/08/10 09:44:22.592 COM16(0)<-(trace)-CNCB0(1): MSG_LINE_DATA {[8]:
+  7f 02 70 01 4d 6d 0a 03                          * ..p.Mm..         *}
+2017/08/10 09:44:34.838 COM16(0)<-(trace)-CNCB0(1): MSG_LINE_DATA {[8]:
+  ff 02 f0 01 4d 6d 0a 03                          * ....Mm..         *}
+2017/08/10 09:44:34.869 COM16(0)-(trace)->: MSG_LINE_DATA {[1]:
+  02                                               * .                *}
+2017/08/10 09:44:34.869 COM16(0)-(trace)->: MSG_LINE_DATA {[1]:
+  f0                                               * .                *}
+2017/08/10 09:44:34.869 COM16(0)-(trace)->: MSG_LINE_DATA {[1]:
+  03                                               * .                *}
+2017/08/10 09:44:34.869 COM16(0)-(trace)->: MSG_LINE_DATA {[2]:
+  00 02                                            * ..               *}
+2017/08/10 09:44:34.869 COM16(0)-(trace)->: MSG_LINE_DATA {[1]:
+  4d                                               * M                *}
+2017/08/10 09:44:34.869 COM16(0)-(trace)->: MSG_LINE_DATA {[3]:
+  0d 1b 03                                         * ...              *}
+2017/08/10 09:44:34.916 COM16(0)<-(trace)-CNCB0(1): MSG_LINE_DATA {[9]:
+  ff 02 83 02 74 01 04 14 03                       * ....t....        *}
+2017/08/10 09:44:34.963 COM16(0)-(trace)->: MSG_LINE_DATA {[1]:
+  02                                               * .                *}
+2017/08/10 09:44:34.963 COM16(0)-(trace)->: MSG_LINE_DATA {[1]:
+  83                                               * .                *}
+2017/08/10 09:44:34.963 COM16(0)-(trace)->: MSG_LINE_DATA {[1]:
+  04                                               * .                *}
+2017/08/10 09:44:34.963 COM16(0)-(trace)->: MSG_LINE_DATA {[3]:
+  00 02 74                                         * ..t              *}
+2017/08/10 09:44:34.978 COM16(0)-(trace)->: MSG_LINE_DATA {[1]:
+  05                                               * .                *}
+2017/08/10 09:44:34.978 COM16(0)-(trace)->: MSG_LINE_DATA {[3]:
+  b1 58 03                                         * .X.              *}
+2017/08/10 09:44:35.150 COM16(0)<-(trace)-CNCB0(1): MSG_LINE_DATA {[9]:
+  ff 02 83 02 00 80 bf 17 03                       * .........        *}
+2017/08/10 09:44:35.165 COM16(0)-(trace)->: MSG_LINE_DATA {[1]:
+  02                                               * .                *}
+2017/08/10 09:44:35.165 COM16(0)-(trace)->: MSG_LINE_DATA {[1]:
+  83                                               * .                *}
+2017/08/10 09:44:35.165 COM16(0)-(trace)->: MSG_LINE_DATA {[2]:
+  83 00                                            * ..               *}
+2017/08/10 09:44:35.165 COM16(0)-(trace)->: MSG_LINE_DATA {[1]:
+  02                                               * .                *}
+2017/08/10 09:44:35.165 COM16(0)-(trace)->: MSG_LINE_DATA {[3]:
+  00 00 02                                         * ...              *}
+2017/08/10 09:44:35.165 COM16(0)-(trace)->: MSG_LINE_DATA {[1]:
+  a2                                               * .                *}
+2017/08/10 09:44:35.165 COM16(0)-(trace)->: MSG_LINE_DATA {[3]:
+  4e ef 36                                         * N.6              *}
+2017/08/10 09:44:35.165 COM16(0)-(trace)->: MSG_LINE_DATA {[1]:
+  35                                               * 5                *}
+2017/08/10 09:44:35.165 COM16(0)-(trace)->: MSG_LINE_DATA {[3]:
+  36 10 06                                         * 6..              *}
+2017/08/10 09:44:35.165 COM16(0)-(trace)->: MSG_LINE_DATA {[1]:
+  02                                               * .                *}
+2017/08/10 09:44:35.165 COM16(0)-(trace)->: MSG_LINE_DATA {[3]:
+  91 97 80                                         * ...              *}
+2017/08/10 09:44:35.165 COM16(0)-(trace)->: MSG_LINE_DATA {[1]:
+  20                                               *                  *}
+2017/08/10 09:44:35.165 COM16(0)-(trace)->: MSG_LINE_DATA {[2]:
+  96 4b                                            * .K               *}
+2017/08/10 09:44:35.165 COM16(0)-(trace)->: MSG_LINE_DATA {[1]:
+  08                                               * .                *}
+2017/08/10 09:44:35.165 COM16(0)-(trace)->: MSG_LINE_DATA {[3]:
+  4e fa 28                                         * N.(              *}
+2017/08/10 09:44:35.165 COM16(0)-(trace)->: MSG_LINE_DATA {[1]:
+  10                                               * .                *}
+2017/08/10 09:44:35.165 COM16(0)-(trace)->: MSG_LINE_DATA {[3]:
+  06 02 00                                         * ...              *}
+2017/08/10 09:44:35.165 COM16(0)-(trace)->: MSG_LINE_DATA {[1]:
+  6d                                               * m                *}
+2017/08/10 09:44:35.165 COM16(0)-(trace)->: MSG_LINE_DATA {[3]:
+  dd 00 00                                         * ...              *}
+2017/08/10 09:44:35.165 COM16(0)-(trace)->: MSG_LINE_DATA {[1]:
+  01                                               * .                *}
+2017/08/10 09:44:35.165 COM16(0)-(trace)->: MSG_LINE_DATA {[3]:
+  18 04 00                                         * ...              *}
+2017/08/10 09:44:35.165 COM16(0)-(trace)->: MSG_LINE_DATA {[1]:
+  58                                               * X                *}
+2017/08/10 09:44:35.165 COM16(0)-(trace)->: MSG_LINE_DATA {[3]:
+  00 00 00                                         * ...              *}
+2017/08/10 09:44:35.165 COM16(0)-(trace)->: MSG_LINE_DATA {[1]:
+  00                                               * .                *}
+2017/08/10 09:44:35.165 COM16(0)-(trace)->: MSG_LINE_DATA {[2]:
+  00 00                                            * ..               *}
+2017/08/10 09:44:35.165 COM16(0)-(trace)->: MSG_LINE_DATA {[1]:
+  00                                               * .                *}
+2017/08/10 09:44:35.165 COM16(0)-(trace)->: MSG_LINE_DATA {[3]:
+  00 00 00                                         * ...              *}
+2017/08/10 09:44:35.181 COM16(0)-(trace)->: MSG_LINE_DATA {[1]:
+  4d                                               * M                *}
+2017/08/10 09:44:35.181 COM16(0)-(trace)->: MSG_LINE_DATA {[3]:
+  70 4d 4d                                         * pMM              *}
+2017/08/10 09:44:35.181 COM16(0)-(trace)->: MSG_LINE_DATA {[1]:
+  4d                                               * M                *}
+2017/08/10 09:44:35.181 COM16(0)-(trace)->: MSG_LINE_DATA {[3]:
+  00 80 c1                                         * ...              *}
+2017/08/10 09:44:35.181 COM16(0)-(trace)->: MSG_LINE_DATA {[1]:
+  00                                               * .                *}
+2017/08/10 09:44:35.181 COM16(0)-(trace)->: MSG_LINE_DATA {[3]:
+  05 71 79                                         * .qy              *}
+2017/08/10 09:44:35.181 COM16(0)-(trace)->: MSG_LINE_DATA {[1]:
+  00                                               * .                *}
+2017/08/10 09:44:35.181 COM16(0)-(trace)->: MSG_LINE_DATA {[3]:
+  00 00 00                                         * ...              *}
+2017/08/10 09:44:35.181 COM16(0)-(trace)->: MSG_LINE_DATA {[1]:
+  4d                                               * M                *}
+2017/08/10 09:44:35.181 COM16(0)-(trace)->: MSG_LINE_DATA {[2]:
+  00 4d                                            * .M               *}
+2017/08/10 09:44:35.181 COM16(0)-(trace)->: MSG_LINE_DATA {[1]:
+  4d                                               * M                *}
+2017/08/10 09:44:35.181 COM16(0)-(trace)->: MSG_LINE_DATA {[3]:
+  00 24 fc                                         * .$.              *}
+2017/08/10 09:44:35.181 COM16(0)-(trace)->: MSG_LINE_DATA {[1]:
+  24                                               * $                *}
+2017/08/10 09:44:35.181 COM16(0)-(trace)->: MSG_LINE_DATA {[3]:
+  ff ff 19                                         * ...              *}
+2017/08/10 09:44:35.181 COM16(0)-(trace)->: MSG_LINE_DATA {[1]:
+  99                                               * .                *}
+2017/08/10 09:44:35.181 COM16(0)-(trace)->: MSG_LINE_DATA {[3]:
+  05 1e 7f                                         * ...              *}
+2017/08/10 09:44:35.181 COM16(0)-(trace)->: MSG_LINE_DATA {[1]:
+  f8                                               * .                *}
+2017/08/10 09:44:35.181 COM16(0)-(trace)->: MSG_LINE_DATA {[3]:
+  85 0c 05                                         * ...              *}
+2017/08/10 09:44:35.181 COM16(0)-(trace)->: MSG_LINE_DATA {[1]:
+  01                                               * .                *}
+2017/08/10 09:44:35.181 COM16(0)-(trace)->: MSG_LINE_DATA {[3]:
+  af f6 76                                         * ..v              *}
+2017/08/10 09:44:35.181 COM16(0)-(trace)->: MSG_LINE_DATA {[1]:
+  66                                               * f                *}
+2017/08/10 09:44:35.181 COM16(0)-(trace)->: MSG_LINE_DATA {[2]:
+  01 01                                            * ..               *}
+2017/08/10 09:44:35.181 COM16(0)-(trace)->: MSG_LINE_DATA {[1]:
+  01                                               * .                *}
+2017/08/10 09:44:35.181 COM16(0)-(trace)->: MSG_LINE_DATA {[3]:
+  01 00 00                                         * ...              *}
+2017/08/10 09:44:35.181 COM16(0)-(trace)->: MSG_LINE_DATA {[1]:
+  03                                               * .                *}
+2017/08/10 09:44:35.181 COM16(0)-(trace)->: MSG_LINE_DATA {[3]:
+  93 01 01                                         * ...              *}
+2017/08/10 09:44:35.181 COM16(0)-(trace)->: MSG_LINE_DATA {[1]:
+  01                                               * .                *}
+2017/08/10 09:44:35.181 COM16(0)-(trace)->: MSG_LINE_DATA {[3]:
+  01 30 30                                         * .00              *}
+2017/08/10 09:44:35.181 COM16(0)-(trace)->: MSG_LINE_DATA {[1]:
+  30                                               * 0                *}
+2017/08/10 09:44:35.181 COM16(0)-(trace)->: MSG_LINE_DATA {[3]:
+  35 7d 20                                         * 5}               *}
+2017/08/10 09:44:35.181 COM16(0)-(trace)->: MSG_LINE_DATA {[1]:
+  38                                               * 8                *}
+2017/08/10 09:44:35.181 COM16(0)-(trace)->: MSG_LINE_DATA {[3]:
+  00 00 00                                         * ...              *}
+2017/08/10 09:44:35.197 COM16(0)-(trace)->: MSG_LINE_DATA {[1]:
+  00                                               * .                *}
+2017/08/10 09:44:35.197 COM16(0)-(trace)->: MSG_LINE_DATA {[3]:
+  00 ff ff                                         * ...              *}
+2017/08/10 09:44:35.197 COM16(0)-(trace)->: MSG_LINE_DATA {[1]:
+  ff                                               * .                *}
+2017/08/10 09:44:35.197 COM16(0)-(trace)->: MSG_LINE_DATA {[2]:
+  ff 30                                            * .0               *}
+2017/08/10 09:44:35.197 COM16(0)-(trace)->: MSG_LINE_DATA {[1]:
+  05                                               * .                *}
+2017/08/10 09:44:35.197 COM16(0)-(trace)->: MSG_LINE_DATA {[3]:
+  02 35 05                                         * .5.              *}
+2017/08/10 09:44:35.197 COM16(0)-(trace)->: MSG_LINE_DATA {[1]:
+  11                                               * .                *}
+2017/08/10 09:44:35.197 COM16(0)-(trace)->: MSG_LINE_DATA {[3]:
+  08 09 00                                         * ...              *}
+2017/08/10 09:44:35.197 COM16(0)-(trace)->: MSG_LINE_DATA {[1]:
+  7c                                               * |                *}
+2017/08/10 09:44:35.197 COM16(0)-(trace)->: MSG_LINE_DATA {[3]:
+  10 00 0e                                         * ...              *}
+2017/08/10 09:44:35.197 COM16(0)-(trace)->: MSG_LINE_DATA {[1]:
+  12                                               * .                *}
+2017/08/10 09:44:35.197 COM16(0)-(trace)->: MSG_LINE_DATA {[3]:
+  00 3c db                                         * .<.              *}
+2017/08/10 09:44:35.197 COM16(0)-(trace)->: MSG_LINE_DATA {[1]:
+  6f                                               * o                *}
+2017/08/10 09:44:35.197 COM16(0)-(trace)->: MSG_LINE_DATA {[1]:
+  03                                               * .                *}

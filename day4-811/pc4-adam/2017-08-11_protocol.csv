@@ -1,0 +1,15 @@
+Date;Time;SerialNo;Hardware;ProductionDate;Software;MemorySize;TargetDevice;BatteryDate;Capacity;BattUsage;Voltage;CodeNo;Mode;OpTime;Rtc;Autosend;Readout;ExtProt;Sprint_4ms;Card6with192punches;StopIfBackupFull;AirPlusTimingMode;AirPlusRadioMode;EcoMode;AllowGateMode;Action;
+
+Date;Time;SerialNo;Hardware;ProductionDate;Software;MemorySize;TargetDevice;BatteryDate;Capacity;BattUsage;Voltage;CodeNo;Mode;OpTime;Rtc;Autosend;Readout;ExtProt;Sprint_4ms;Card6with192punches;StopIfBackupFull;AirPlusTimingMode;AirPlusRadioMode;EcoMode;AllowGateMode;Action;
+2017-08-11;07:41:26;133364;BSM7 UART1 (USB);2011.03.09.;573;128 K;Direct;2011.03.09.;2000;144,9 %;N/A;4;Readout; 00:02:00;RealTimeClock!; -;N/A;ExtendedProtocol;N/A; -; -;N/A;N/A;N/A;N/A;ConfigRead;
+2017-08-11;08:36:55;198092;BSF8 UART1 (SRR);2016.08.18.;623;128 K;Remote;2016.08.18.;1000;12,9 %;3,42;1;BcFinish; 04:00:00;RealTimeClock!;AutoSend;N/A;ExtendedProtocol; -; -;N/A;forced PunchingMode;SrRadioSendLast; -;N/A;ConfigRead;
+2017-08-11;08:37:50;198092;BSF8 UART1 (SRR);2016.08.18.;623;128 K;Remote;2016.08.18.;1000;12,9 %;3,42;113;Control; 04:00:00;RealTimeClock!;AutoSend;N/A;ExtendedProtocol;N/A; -;N/A;N/A;N/A;N/A;N/A;ConfigWritten;
+2017-08-11;08:38:26;198091;BSF8 UART1 (SRR);2016.08.18.;623;128 K;Remote;2016.08.18.;1000;12,0 %;3,45;115;Control; 04:00:00;RealTimeClock!;AutoSend;N/A;ExtendedProtocol;N/A; -;N/A;N/A;N/A;N/A;N/A;ConfigRead;
+2017-08-11;08:38:48;198091;BSF8 UART1 (SRR);2016.08.18.;623;128 K;Remote;2016.08.18.;1000;12,0 %;3,45;97;Control; 04:00:00;RealTimeClock!;AutoSend;N/A;ExtendedProtocol;N/A; -;N/A;N/A;N/A;N/A;N/A;ConfigWritten;
+2017-08-11;08:39:09;198091;BSF8 UART1 (SRR);2016.08.18.;623;128 K;Remote;2016.08.18.;1000;12,0 %;3,37;97;Control; 04:00:00;RealTimeClock!;AutoSend;N/A;ExtendedProtocol;N/A; -;N/A;N/A;N/A;N/A;N/A;ConfigWritten;
+2017-08-11;08:39:41;198091;BSF8 UART1 (SRR);2016.08.18.;623;128 K;Remote;2016.08.18.;1000;12,0 %;3,41;97;Control; 04:00:00;RealTimeClock!;AutoSend;N/A;ExtendedProtocol;N/A; -;N/A;N/A;N/A;N/A;N/A;ConfigWritten;
+2017-08-11;08:40:11;198093;BSF8 UART1 (SRR);2016.08.18.;623;128 K;Remote;2016.08.18.;1000;10,3 %;3,47;97;Control; 04:00:00;RealTimeClock!;AutoSend;N/A;ExtendedProtocol;N/A; -;N/A;N/A;N/A;N/A;N/A;ConfigWritten;
+2017-08-11;08:40:46;133364;BSM7 UART1 (USB);2011.03.09.;573;128 K;Direct;2011.03.09.;2000;144,9 %;N/A;4;Readout; 00:02:00;RealTimeClock!; -;N/A;ExtendedProtocol;N/A; -; -;N/A;N/A;N/A;N/A;ConfigRead;
+
+Date;Time;SerialNo;Hardware;ProductionDate;Software;MemorySize;TargetDevice;BatteryDate;Capacity;BattUsage;Voltage;CodeNo;Mode;OpTime;Rtc;Autosend;Readout;ExtProt;Sprint_4ms;Card6with192punches;StopIfBackupFull;AirPlusTimingMode;AirPlusRadioMode;EcoMode;AllowGateMode;Action;
+2017-08-11;13:37:44;133364;BSM7 UART1 (USB);2011.03.09.;573;128 K;Direct;2011.03.09.;2000;144,9 %;N/A;4;Readout; 00:02:00;RealTimeClock!; -;N/A;ExtendedProtocol;N/A; -; -;N/A;N/A;N/A;N/A;ConfigRead;
